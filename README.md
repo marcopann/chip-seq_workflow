@@ -39,14 +39,3 @@ Final filtered reads from each replicate are merged using **samtools merge** (*h
 ***Merging replicates is your own decision, depending on your experiment design and if dealing with technical or biological replicates. However, it is always recommended to perform some sort of exploratory analysis (such as PCA), before deciding to merge your replicates.***
 
 For any inquiry, please contact me at: marco.pannone@ntnu.no
-
-If you want to learn more about me, you can visit the following web pages:
-
-Linkedin: https://www.linkedin.com/feed/
-
-ResearchGate: https://www.researchgate.net/profile/Marco-Pannone
-
-Google Scholar: https://scholar.google.com/citations?user=Z5HC2F0AAAAJ&hl=en
-
-Institutional profile: https://www.ntnu.edu/employees/marco.pannone
-
