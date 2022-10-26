@@ -1,4 +1,4 @@
-# ChIP-seq Workflow
+# ChIP-seq Workflow (***in progress***)
 
 ChIP-seq analysis workflow - From .fastq files, downstream to any sort of data processing and figures generation. Referred to a dataset with single-end reads only. 
 
